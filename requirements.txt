@@ -1,5 +1,5 @@
 aiogram==3.3.0
-aiohttp
-asyncio
-requests
-python-dotenv
+aiohttp==3.9.5
+requests==2.32.3
+python-dotenv==1.0.1
+pip>=25.3
